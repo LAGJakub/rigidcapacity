@@ -1,0 +1,11 @@
+C:\Users\Jakub\Documents\Coding\Visual Studio CS\BoxesThatWillFit\BoxesThatWillFit\bin\Debug\netcoreapp3.1\BoxesThatWillFit.exe
+C:\Users\Jakub\Documents\Coding\Visual Studio CS\BoxesThatWillFit\BoxesThatWillFit\bin\Debug\netcoreapp3.1\BoxesThatWillFit.deps.json
+C:\Users\Jakub\Documents\Coding\Visual Studio CS\BoxesThatWillFit\BoxesThatWillFit\bin\Debug\netcoreapp3.1\BoxesThatWillFit.runtimeconfig.json
+C:\Users\Jakub\Documents\Coding\Visual Studio CS\BoxesThatWillFit\BoxesThatWillFit\bin\Debug\netcoreapp3.1\BoxesThatWillFit.runtimeconfig.dev.json
+C:\Users\Jakub\Documents\Coding\Visual Studio CS\BoxesThatWillFit\BoxesThatWillFit\bin\Debug\netcoreapp3.1\BoxesThatWillFit.dll
+C:\Users\Jakub\Documents\Coding\Visual Studio CS\BoxesThatWillFit\BoxesThatWillFit\bin\Debug\netcoreapp3.1\BoxesThatWillFit.pdb
+C:\Users\Jakub\Documents\Coding\Visual Studio CS\BoxesThatWillFit\BoxesThatWillFit\obj\Debug\netcoreapp3.1\BoxesThatWillFit.AssemblyInfoInputs.cache
+C:\Users\Jakub\Documents\Coding\Visual Studio CS\BoxesThatWillFit\BoxesThatWillFit\obj\Debug\netcoreapp3.1\BoxesThatWillFit.AssemblyInfo.cs
+C:\Users\Jakub\Documents\Coding\Visual Studio CS\BoxesThatWillFit\BoxesThatWillFit\obj\Debug\netcoreapp3.1\BoxesThatWillFit.dll
+C:\Users\Jakub\Documents\Coding\Visual Studio CS\BoxesThatWillFit\BoxesThatWillFit\obj\Debug\netcoreapp3.1\BoxesThatWillFit.pdb
+C:\Users\Jakub\Documents\Coding\Visual Studio CS\BoxesThatWillFit\BoxesThatWillFit\obj\Debug\netcoreapp3.1\BoxesThatWillFit.csprojAssemblyReference.cache
